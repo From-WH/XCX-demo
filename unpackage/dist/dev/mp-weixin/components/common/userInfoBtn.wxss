@@ -1,0 +1,10 @@
+.user-info-btn.data-v-43faae4e::after {
+  border: 0;
+}
+.user-info-btn.data-v-43faae4e {
+  background-color: transparent;
+  line-height: 0;
+  padding: 0;
+  font-size: 0;
+}
+

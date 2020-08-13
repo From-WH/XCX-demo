@@ -1,0 +1,1 @@
+<view><view class="view-header_root"><user-info-btn bind:onClickBtn="__e" vue-id="1" data-event-opts="{{[['^onClickBtn',[['onGetAuthData']]]]}}" bind:__l="__l" vue-slots="{{['default']}}"><text>uni-小程序</text></user-info-btn></view><view></view></view>

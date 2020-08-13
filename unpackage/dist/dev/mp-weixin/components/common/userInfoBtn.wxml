@@ -1,0 +1,1 @@
+<view class="user-info-container data-v-43faae4e"><button class="user-info-btn data-v-43faae4e" open-type="getUserInfo" withCredentials="true" data-event-opts="{{[['getuserinfo',[['mpGetUserInfo',['$event']]]]]}}" bindgetuserinfo="__e"><slot></slot><text class="data-v-43faae4e">娃哈哈</text></button></view>
