@@ -2,9 +2,11 @@
   "navigationBarTitleText": "首页",
   "navigationBarBackgroundColor": "#FFFFFF",
   "usingComponents": {
+    "u-search": "/node-modules/uview-ui/components/u-search/u-search",
     "u-swiper": "/node-modules/uview-ui/components/u-swiper/u-swiper",
-    "user-info-btn": "/components/common/userInfoBtn",
-    "uni-search-bar": "/components/uni-search-bar/uni-search-bar",
-    "load-refresh": "/components/load-refresh/load-refresh"
+    "u-tabs": "/node-modules/uview-ui/components/u-tabs/u-tabs",
+    "u-rate": "/node-modules/uview-ui/components/u-rate/u-rate",
+    "u-card": "/node-modules/uview-ui/components/u-card/u-card",
+    "u-icon": "/node-modules/uview-ui/components/u-icon/u-icon"
   }
 }

@@ -25,28 +25,42 @@
 /* 垂直间距 */
 /* 透明度 */
 /* 文章场景相关 */
-.search.data-v-0a1f23e0 {
-  padding: 10rpx 40rpx;
+view.data-v-346dfa1a,
+scroll-view.data-v-346dfa1a {
+  box-sizing: border-box;
 }
-.wrap.data-v-0a1f23e0 {
-  padding: 10rpx 40rpx;
+.data-v-346dfa1a::-webkit-scrollbar,.data-v-346dfa1a::-webkit-scrollbar,.data-v-346dfa1a::-webkit-scrollbar {
+  display: none;
+  width: 0 !important;
+  height: 0 !important;
+  -webkit-appearance: none;
+  background: transparent;
 }
-.u-card-wrap.data-v-0a1f23e0 {
-  background-color: #f3f4f6;
-  padding: 1px;
+.u-scroll-box.data-v-346dfa1a {
+  position: relative;
 }
-.u-body-item.data-v-0a1f23e0 {
-  font-size: 32rpx;
-  color: #333;
-  padding: 20rpx 10rpx;
+.u-scroll-view.data-v-346dfa1a {
+  width: 100%;
+  white-space: nowrap;
+  position: relative;
 }
-.u-body-item image.data-v-0a1f23e0 {
-  width: 120rpx;
-  -webkit-box-flex: 0;
-  -webkit-flex: 0 0 120rpx;
-          flex: 0 0 120rpx;
-  height: 120rpx;
-  border-radius: 8rpx;
-  margin-left: 12rpx;
+.u-tab-item.data-v-346dfa1a {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  -webkit-transition-property: background-color, color;
+  transition-property: background-color, color;
+}
+.u-tab-bar.data-v-346dfa1a {
+  position: absolute;
+  bottom: 0;
+}
+.u-tabs-scorll-flex.data-v-346dfa1a {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
 }
 
