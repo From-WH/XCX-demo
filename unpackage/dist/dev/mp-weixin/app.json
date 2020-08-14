@@ -1,7 +1,8 @@
 {
   "pages": [
     "pages/index/index",
-    "pages/mine/index"
+    "pages/mine/index",
+    "pages/records/records"
   ],
   "subPackages": [],
   "window": {
@@ -18,13 +19,24 @@
     "list": [
       {
         "pagePath": "pages/index/index",
+        "iconPath": "static/icon/圣诞树球.png",
+        "selectedIconPath": "static/icon/圣诞火堆.png",
         "text": "首页"
       },
       {
         "pagePath": "pages/mine/index",
+        "iconPath": "static/icon/圣诞球.png",
+        "selectedIconPath": "static/icon/圣诞蛋糕.png",
         "text": "个人中心"
+      },
+      {
+        "pagePath": "pages/records/records",
+        "iconPath": "static/icon/圣诞雪人.png",
+        "selectedIconPath": "static/icon/房子.png",
+        "text": "记录"
       }
     ]
   },
-  "usingComponents": {}
+  "usingComponents": {},
+  "sitemapLocation": "sitemap1.json"
 }

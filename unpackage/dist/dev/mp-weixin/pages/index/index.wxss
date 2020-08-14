@@ -2,6 +2,32 @@
   line-height: 40rpx;
 }
 
+.content.data-v-0a1f23e0 {
+  width: 100%;
+  height: 100%;
+}
+.swiper-item.data-v-0a1f23e0 {
+  width: 100%;
+  height: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.uni-bg-red.data-v-0a1f23e0 {
+  background-color: red;
+}
+.uni-bg-green.data-v-0a1f23e0 {
+  background-color: green;
+}
+.uni-bg-blue.data-v-0a1f23e0 {
+  background-color: blue;
+}
 .input-nickname.data-v-0a1f23e0 {
   width: 462rpx;
   height: 86rpx;
@@ -291,5 +317,67 @@ page .mine-container > ._main .btm-cnt > view > image.data-v-0a1f23e0 {
   color: #000000;
   text-align: center;
   line-height: 50rpx;
+}
+page.data-v-0a1f23e0 {
+  background: #F2F2F2;
+  width: 750rpx;
+  overflow-x: hidden;
+}
+.qiun-padding.data-v-0a1f23e0 {
+  padding: 2%;
+  width: 96%;
+}
+.qiun-wrap.data-v-0a1f23e0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+}
+.qiun-rows.data-v-0a1f23e0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: horizontal !important;
+  -webkit-box-direction: normal !important;
+  -webkit-flex-direction: row !important;
+          flex-direction: row !important;
+}
+.qiun-columns.data-v-0a1f23e0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical !important;
+  -webkit-box-direction: normal !important;
+  -webkit-flex-direction: column !important;
+          flex-direction: column !important;
+}
+.qiun-common-mt.data-v-0a1f23e0 {
+  margin-top: 10rpx;
+}
+.qiun-bg-white.data-v-0a1f23e0 {
+  background: #FFFFFF;
+}
+.qiun-title-bar.data-v-0a1f23e0 {
+  width: 96%;
+  padding: 10rpx 2%;
+  -webkit-flex-wrap: nowrap;
+          flex-wrap: nowrap;
+}
+.qiun-title-dot-light.data-v-0a1f23e0 {
+  border-left: 10rpx solid #0ea391;
+  padding-left: 10rpx;
+  font-size: 32rpx;
+  color: #000000;
+}
+.qiun-charts.data-v-0a1f23e0 {
+  width: 750rpx;
+  height: 500rpx;
+  background-color: #FFFFFF;
+}
+.charts.data-v-0a1f23e0 {
+  width: 750rpx;
+  height: 500rpx;
+  background-color: #FFFFFF;
 }
 

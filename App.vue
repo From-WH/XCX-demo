@@ -10,7 +10,7 @@
 
 			console.log('on show');
 			// this.getLogin()
-			// this.getList()
+			this.getList()
 			console.log('11111')
 		},
 
@@ -34,6 +34,8 @@
 							}]
 						}
 					}
+				}).then(res => {
+					console.log(res)
 				})
 			},
 			getLogin() {
@@ -68,6 +70,7 @@
 	}
 </script>
 
-<style>
+<style lang="scss">
+	@import "uview-ui/index.scss";
 	/*每个页面公共css */
 </style>
